@@ -58,7 +58,7 @@
 <body>
 
 <header>
-    <img src= "tfs" width="350" height="95">
+    <img src= "tfs.jpg" width="350" height="95">
     <h1>The Foundation School MUN 2025</h1>
     
 </header>
