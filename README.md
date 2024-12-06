@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>The Foundation School MUN</title>
+    <title>The Foundation School,Gunjur Model United Nations</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
+            background-color: black;
             margin: 0;
             padding: 0;
         }
@@ -21,7 +21,7 @@
         nav {
             display: flex;
             justify-content: center;
-            background-color: #00509e;
+            background-color: green;
             padding: 10px;
         }
         nav a {
