@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>The Foundation School Model United Nations</title>
+    <link rel="stylesheet" href="css/styles.css">
     <style>
         body {
             font-family: Times New Roman;
