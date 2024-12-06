@@ -11,7 +11,7 @@
             background-color: #03264a;
             opacity: 34;
             margin: 0;
-            padding: 0;
+            padding: 20px;
         }
         header {
             background-color:#434f73;
