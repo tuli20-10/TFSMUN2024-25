@@ -4,24 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>The Foundation School, Gunjur Model United Nations</title>
+    <title>The Foundation School Model United Nations</title>
     <style>
         body {
             font-family: Times New Roman;
-            background-color: #24325e;
+            background-color: #03264a;
+            opacity: 34;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color:;
+            background-color:#434f73;
+            font-size: 25;
             color: white;
             padding: 20px;
-            text-align: center;
+            text-align: left;
         }
         nav {
             display: flex;
             justify-content: center;
-            background-color: green;
+            background-color: #4a6580;
             padding: 10px;
         }
         nav a {
@@ -56,8 +58,9 @@
 <body>
 
 <header>
+    <img src= "tfs.jpg" width="350" height="95">
     <h1>The Foundation School MUN 2025</h1>
-    <p>Gunjur, Bangalore, Karnataka</p>
+    
 </header>
 
 <nav>
