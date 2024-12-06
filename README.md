@@ -17,18 +17,18 @@
             background-color:#434f73;
             font-size: 25;
             color: white;
-            padding: 20px;
+            padding: 0px;
             text-align: left;
         }
         nav {
             display: flex;
             justify-content: center;
             background-color: #4a6580;
-            padding: 10px;
+            padding: 0px;
         }
         nav a {
             color: white;
-            margin: 0 15px;
+            margin: 0px;
             text-decoration: none;
             font-weight: bold;
         }
@@ -48,7 +48,7 @@
             background-color: #003366;
             color: white;
             text-align: center;
-            padding: 10px;
+            padding: 0px;
             position: fixed;
             width: 100%;
             bottom: 0;
