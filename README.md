@@ -7,13 +7,13 @@
     <title>The Foundation School, Gunjur Model United Nations</title>
     <style>
         body {
-            font-family: Garamond, serif;
-            background-color: black;
+            font-family: Times New Roman;
+            background-color: #24325e;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #FFFFFF;
+            background-color:;
             color: white;
             padding: 20px;
             text-align: center;
@@ -35,7 +35,8 @@
             text-align: center;
         }
         .main-content {
-            background-color: white;
+            background-color: #24325e;
+            color: white;
             margin: 20px auto;
             padding: 20px;
             max-width: 900px;
@@ -55,7 +56,7 @@
 <body>
 
 <header>
-    <h1>The Foundation School MUN 2024</h1>
+    <h1>The Foundation School MUN 2025</h1>
     <p>Gunjur, Bangalore, Karnataka</p>
 </header>
 
@@ -101,8 +102,11 @@
     <p>Ananya Mandalika:</p>
     <p>    Email: ananyamand@foundationschoolindia.com</p>
     <p>    Phone: +91 1111111111</p>
-</section>
 
+</section>
+<br>
+<br>
+<br>
 <footer>
     <p>&copy; 2024 The Foundation School MUN | Designed by Students</p>
 </footer>
