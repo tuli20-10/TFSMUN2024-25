@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>The Foundation School Model United Nations</title>
 
-    <style>
+<style>
         body {
             font-family: Times New Roman;
             background-color: #03264a;
