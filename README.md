@@ -3,8 +3,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-body {
+<style>
+    body {
     font-family: "Times New Roman", serif;
     background-color: #03264a;
     margin: 0;
@@ -56,6 +56,7 @@ footer {
     width: 100%;
     bottom: 0;
 }
+</style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
