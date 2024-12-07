@@ -5,56 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>The Foundation School Model United Nations</title>
+<link rel="stylesheet" href="css/styles.css">
 
-<style>
-        body {
-            font-family: Times New Roman;
-            background-color: #03264a;
-            opacity: 34;
-            margin: 0;
-            padding: 20px;
-        }
-        header {
-            background-color:#434f73;
-            font-size: 25;
-            color: white;
-            padding: 0px;
-            text-align: left;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            background-color: #4a6580;
-            padding: 0px;
-        }
-        nav a {
-            color: white;
-            margin: 0px;
-            text-decoration: none;
-            font-weight: bold;
-        }
-        section {
-            padding: 20px;
-            text-align: center;
-        }
-        .main-content {
-            background-color: #24325e;
-            color: white;
-            margin: 20px auto;
-            padding: 20px;
-            max-width: 900px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
-        footer {
-            background-color: #003366;
-            color: white;
-            text-align: center;
-            padding: 0px;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-    </style>
 </head>
 <body>
 
@@ -67,7 +19,6 @@
 <nav>
     <a href="#about">About</a>
     <a href="#committees">Committees</a>
-    <a href="#schedule">Schedule</a>
     <a href="#registration">Registration</a>
     <a href="#contact">Contact</a>
 </nav>
@@ -86,9 +37,10 @@
 <section class="main-content" id="committees">
     <h2>Committees</h2>
     <ul>
-        <li>United Nations Security Council (UNSC)</li>
-        <li>World Health Organization (WHO)</li>
-        <li>United Nations Human Rights Council (UNHRC)</li>
+        <ol>United Nations Security Council (UNSC)</ol>
+        <ol>All India Political Party Meet (AIPPM)</ol>
+        <ol>United Nations Human Rights Council (UNHRC)</ol>
+        <ol>Continuous Crisis Committee</ol>
     </ul>
 </section>
 
