@@ -1,16 +1,14 @@
 <DOCTYPE html>
 <html lang="en">
-<link rel="stylesheet" href="styles.css">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>The Foundation School Model United Nations</title>
-
-
 </head>
 <body>
-
+<link rel="stylesheet" href="styles.css">
 <header>
     <img src= "tfs.jpg" width="350" height="95">
     <h1>The Foundation School MUN 2025</h1>
