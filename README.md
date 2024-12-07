@@ -40,7 +40,7 @@
         <ol>United Nations Security Council (UNSC)</ol>
         <ol>All India Political Party Meet (AIPPM)</ol>
         <ol>United Nations Human Rights Council (UNHRC)</ol>
-        <ol>Continuous Crisis Committee</ol>
+        <ol>Continuous Crisis Committee (CCC)</ol>
     </ul>
 </section>
 
