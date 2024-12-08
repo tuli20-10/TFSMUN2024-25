@@ -3,60 +3,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<style>
-    body {
-    font-family: "Times New Roman", serif;
-    background-color: #03264a;
-    margin: 0;
-    padding: 0;
-}
-
-header {
-    background-color: #434f73;
-    font-size: 25px;
-    color: white;
-    padding: 20px;
-    text-align: left;
-}
-
-nav {
-    display: flex;
-    justify-content: center;
-    background-color: #4a6580;
-    padding: 10px;
-}
-
-nav a {
-    color: white;
-    margin: 0 15px;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-section {
-    padding: 20px;
-    text-align: center;
-}
-
-.main-content {
-    background-color: #24325e;
-    color: white;
-    margin: 20px auto;
-    padding: 20px;
-    max-width: 900px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-}
-
-footer {
-    background-color: #003366;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-</style>
+    <link rel="stylesheet" href="style.css">
+    
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
