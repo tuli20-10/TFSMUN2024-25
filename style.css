@@ -4,7 +4,7 @@ p {
     
 body {
     font-family: "Times New Roman", serif;
-    background-color: #03264a;
+    background-color: #1a4526;
     margin: 0;
     padding: 0;
 }
@@ -24,6 +24,7 @@ nav {
     background-color: #4a6580;
     padding: 10px;
     position: fixed;
+    
 }
 
 nav a {
@@ -33,6 +34,7 @@ nav a {
     text-decoration-color: white;
     text-decoration-thickness: 2px;
     font-weight: bold;
+    
 }
 
 section {
@@ -57,4 +59,7 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+}
+html {
+  scroll-behavior: smooth;
 }
