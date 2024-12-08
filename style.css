@@ -20,7 +20,7 @@ header {
 nav {
     display: flex;
     justify-content: space-around;
-    justify-content: center;
+    align: center;
     background-color: #4a6580;
     padding: 10px;
     position: fixed;
@@ -28,10 +28,11 @@ nav {
 
 nav a {
     color: white;
-    margin-right: 0px;
+    margin-right: 40px;
     text-decoration: underline;
     text-decoration-color: blue;
     text-decoration-style: wavy;
+    text-decoration-thickness: 20px;
     font-weight: bold;
 }
 
