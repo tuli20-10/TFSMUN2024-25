@@ -28,8 +28,10 @@ nav {
 
 nav a {
     color: white;
-    margin-right: 50px;
-    text-decoration: none;
+    margin-right: 0px;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy;
     font-weight: bold;
 }
 
