@@ -29,10 +29,9 @@ nav {
 nav a {
     color: white;
     margin-right: 40px;
-    text-decoration: underline;
-    text-decoration-color: blue;
-    text-decoration-style: wavy;
-    text-decoration-thickness: 20px;
+    text-decoration: overline;
+    text-decoration-color: black;
+    text-decoration-thickness: 10px;
     font-weight: bold;
 }
 
