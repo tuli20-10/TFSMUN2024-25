@@ -65,10 +65,10 @@ footer {
 html {
   scroll-behavior: smooth;
 }
-hr.vertical {
+.vertical {
     width: 1px;
     height: 20px; 
-    background-color: black;
+    background-color: white;
     border: none;
     transform: rotate(90deg);
     margin-left: 20px;
