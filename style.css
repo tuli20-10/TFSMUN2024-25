@@ -65,9 +65,9 @@ footer {
 html {
   scroll-behavior: smooth;
 }
- hr.vertical {
+hr.vertical {
     width: 1px;
-    height: 200px; 
+    height: 20px; 
     background-color: black;
     border: none;
     transform: rotate(90deg);
