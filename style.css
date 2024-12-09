@@ -22,7 +22,7 @@ nav {
     justify-content: space-around;
     align: center;
     background-color: #4a6580;
-    padding: 0px;
+    padding: px;
     position: fixed;
     
 }
@@ -34,7 +34,14 @@ nav a {
     text-decoration-color: white;
     text-decoration-thickness: 2px;
     font-weight: bold;
-    
+}
+nav a: hover {
+  background-color: #1a4526;
+  color: white; 
+}
+nav a: active {
+  background-color: #1a4526; 
+  color: white;  
 }
 
 section {
