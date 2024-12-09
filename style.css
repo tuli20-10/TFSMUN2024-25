@@ -13,7 +13,7 @@ header {
     background-color: #434f73;
     font-size: 25px;
     color: white;
-    padding: 80px;
+    padding: 0px;
     text-align: centre;
 }
 
@@ -22,14 +22,14 @@ nav {
     justify-content: space-around;
     align: center;
     background-color: #4a6580;
-    padding: 80px;
+    padding: 0px;
     position: fixed;
     
 }
 
 nav a {
     color: white;
-    margin-right: 40px;
+    margin-right: 100px;
     text-decoration: overline;
     text-decoration-color: white;
     text-decoration-thickness: 2px;
