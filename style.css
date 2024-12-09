@@ -1,7 +1,5 @@
 p {
-    font-family: "Times New Roman";
-    background: rgb(131,58,180);
-    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    font-family: "Calibri";
 }
     
 body {
@@ -35,15 +33,6 @@ nav a {
     text-decoration-thickness: 2px;
     font-weight: bold;
 }
-nav a: hover {
-  background-color: #1a4526;
-  color: white; 
-}
-nav a: active {
-  background-color: #1a4526; 
-  color: white;  
-}
-
 section {
     padding: 20px;
     text-align: center;
