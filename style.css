@@ -4,13 +4,13 @@ p {
     
 body {
     font-family: "Times New Roman", serif;
-    background-color: #16143b;
+    background-color: #141e30;
     margin: 0;
     padding: 1px;
 }
 
 header {
-    background-color: #434f73;
+    background-color: #41495e;
     color: white;
     padding: 5px;
     text-align: centre;
@@ -54,7 +54,7 @@ section {
 }
 
 footer {
-    background-color: #003366;
+    background-color: #524b3e;
     color: white;
     text-align: center;
     padding: 5px;
