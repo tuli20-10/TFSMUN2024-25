@@ -66,6 +66,7 @@ footer {
     text-align: center;
     padding: 5px;
     bottom: 0;
+    max-height: calc(100vh - 60px);
 }
 html {
   scroll-behavior: smooth;
